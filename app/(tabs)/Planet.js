@@ -1,12 +1,4 @@
-import {
-  Image,
-  StyleSheet,
-  SafeAreaView,
-  View,
-  Text,
-  StatusBar,
-  ScrollView,
-} from 'react-native';
+import { Image, StyleSheet, View, Text, ScrollView } from 'react-native';
 
 export function Planetas({ planeta }) {
   return (
@@ -52,8 +44,8 @@ const styles = StyleSheet.create({
     alignItems: 'center',
   },
   imagePlanet: {
-    width: 100,
-    height: 100,
+    width: 150,
+    height: 130,
   },
   stylesDescription: {
     flexDirection: 'row',
@@ -70,6 +62,7 @@ const styles = StyleSheet.create({
   stylesNamePlanet: {
     fontSize: 20,
     color: 'white',
+    marginBottom: 20,
   },
   stylesText: {
     color: 'white',

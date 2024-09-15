@@ -6,7 +6,7 @@ import { useState } from 'react';
 
 export default function HomeScreen() {
 
-  const [valuePlanet , setPlanet] = useState(0)
+  const [valuePlanet , setPlanet] = useState(0);
 
 
   // const next = () => {
@@ -39,7 +39,7 @@ export default function HomeScreen() {
 
   return (
     <SafeAreaView  style={{flex: 1}}>
-      <StatusBar backgroundColor="#4443" />
+      <StatusBar backgroundColor="#af181833" />
       <View style={styles.container}>
       <View style={styles.containerHeader}>
         <Text style={styles.styleText}>Vamos Explorar</Text>
@@ -83,7 +83,7 @@ const styles = StyleSheet.create({
     marginTop:30,
     flexDirection:'row',
     gap:20,
-    marginBottom:20
+    marginBottom:50
   },
   stylesImage: {
     width:50,

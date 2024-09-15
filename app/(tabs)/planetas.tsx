@@ -22,7 +22,7 @@ export const planeta = [
     periodoRotacaoDias: 243,
   },
   {
-    img: 'https://segredosdomundo.r7.com/wp-content/uploads/2020/01/planeta-terra-conheca-tudo-sobre-o-nosso-planeta-natal.jpg',
+    img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC2J2OIA06TOX2drjyT9w3KkpcWiCGg1nRUA&s',
     nome: 'Mercúrio',
     descricaoBreve: 'O menor planeta do Sistema Solar.',
     descricao:
@@ -33,7 +33,7 @@ export const planeta = [
     periodoRotacaoDias: 58.6,
   },
   {
-    img: 'https://segredosdomundo.r7.com/wp-content/uploads/2020/01/planeta-terra-conheca-tudo-sobre-o-nosso-planeta-natal.jpg',
+    img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWFJSc8_THCvdI94ExJoP4WFyfJuJycPAQ4Q&s',
     nome: 'Marte',
     descricaoBreve: 'Conhecido como o planeta vermelho.',
     descricao:
@@ -44,7 +44,7 @@ export const planeta = [
     periodoRotacaoDias: 1.03,
   },
   {
-    img: 'https://segredosdomundo.r7.com/wp-content/uploads/2020/01/planeta-terra-conheca-tudo-sobre-o-nosso-planeta-natal.jpg',
+    img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_ClAHqeeDNKomr2cb7Txsy-l-Wr8s0tAjhA&s',
     nome: 'Júpiter',
     descricaoBreve: 'O maior planeta do Sistema Solar.',
     descricao:
@@ -55,7 +55,7 @@ export const planeta = [
     periodoRotacaoDias: 0.41,
   },
   {
-    img: 'https://segredosdomundo.r7.com/wp-content/uploads/2020/01/planeta-terra-conheca-tudo-sobre-o-nosso-planeta-natal.jpg',
+    img: 'https://img.odcdn.com.br/wp-content/uploads/2019/09/20190916074949.jpg',
     nome: 'Saturno',
     descricaoBreve: 'Famoso por seus belos anéis.',
     descricao:
@@ -66,7 +66,7 @@ export const planeta = [
     periodoRotacaoDias: 0.45,
   },
   {
-    img: 'https://segredosdomundo.r7.com/wp-content/uploads/2020/01/planeta-terra-conheca-tudo-sobre-o-nosso-planeta-natal.jpg',
+    img: 'https://img.freepik.com/fotos-gratis/esfera-abstrata-brilha-em-liquido-subaquatico-azul-gerado-por-ia_188544-22051.jpg',
     nome: 'Urano',
     descricaoBreve: 'Um planeta inclinado e gelado.',
     descricao:
@@ -77,7 +77,7 @@ export const planeta = [
     periodoRotacaoDias: 0.72,
   },
   {
-    img: 'https://segredosdomundo.r7.com/wp-content/uploads/2020/01/planeta-terra-conheca-tudo-sobre-o-nosso-planeta-natal.jpg',
+    img: 'https://static.mundoeducacao.uol.com.br/mundoeducacao/2022/10/aneis-netuno.jpg',
     nome: 'Netuno',
     descricaoBreve: 'O planeta mais distante do Sol.',
     descricao:
@@ -88,7 +88,7 @@ export const planeta = [
     periodoRotacaoDias: 0.67,
   },
   {
-    img: 'https://segredosdomundo.r7.com/wp-content/uploads/2020/01/planeta-terra-conheca-tudo-sobre-o-nosso-planeta-natal.jpg',
+    img: 'https://s1.static.brasilescola.uol.com.br/be/conteudo/images/sonda-new-horizons-registrou-imagem-plutao-em-julho-2015-55a55da01dda4.jpg',
     nome: 'Plutão',
     descricaoBreve: 'Agora classificado como planeta anão.',
     descricao:
