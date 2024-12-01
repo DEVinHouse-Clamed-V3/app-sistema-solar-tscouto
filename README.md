@@ -1,2 +1,28 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/C8zpymPV)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15942512&assignment_repo_type=AssignmentRepo)
+# Sistema Solar - App
+
+**Link do Projeto:** https://github.com/DEVinHouse-Clamed-V3/app-sistema-solar-tscouto.git
+
+Este projeto é um aplicativo desenvolvido para explorar informações sobre os planetas do Sistema Solar. O app permite visualizar dados detalhados de cada planeta, como sua descrição, quantidade de satélites, área da superfície, velocidade orbital média e o período de rotação.
+
+## Funcionalidades
+
+- **Visualização dos Planetas:** O usuário pode visualizar informações sobre os planetas do Sistema Solar, incluindo uma imagem, descrição breve e detalhes como quantidade de satélites, área da superfície, velocidade orbital e período de rotação.
+- **Interface Responsiva:** O app é otimizado para ser usado em dispositivos móveis, com uma interface limpa e funcional.
+- **Deslizar pelas Informações:** Usando o `ScrollView`, o usuário pode navegar pelas informações dos planetas de forma suave e intuitiva.
+
+## Tecnologias e Linguagens Utilizadas
+
+- **React Native:** A estrutura principal para o desenvolvimento de interfaces móveis.
+- **JavaScript:** A linguagem usada para programar a lógica do aplicativo.
+- **Styled Components:** Para estilizar os componentes de forma eficiente.
+- **Expo:** Ambiente de desenvolvimento que facilita a execução do projeto em dispositivos móveis.
+
+## Como Funciona
+
+O aplicativo exibe informações detalhadas sobre cada planeta do Sistema Solar, incluindo imagem e dados como quantidade de satélites, área de superfície, velocidade orbital média, e período de rotação. Cada planeta é apresentado de forma simples e interativa, com dados facilmente acessíveis para o usuário.
+
+### Exemplo da tela do aplicativo:
+![Tela de Imagens de planetas](https://github.com/user-attachments/assets/0327076a-7c9c-4cdb-ae8e-94c65c0b7702)
+
+
+
